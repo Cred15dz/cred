@@ -5,8 +5,8 @@ pkg update
 
 pkg upgrade
 
-git clone https://github.com/Cred15dz/cred
+git clone
 
 cd cred
 
-python3 cred.py
+python WIFI.py
