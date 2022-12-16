@@ -1,5 +1,6 @@
 # cred
 is to guess wifi 
+
 pkg update
 
 pkg upgrade
